@@ -76,7 +76,7 @@ body {
   justify-content: left;
   padding: 30px;
   color: white;
-  background: url(image/explorebanner.jpg) no-repeat center/cover;
+  background: url(explorebanner.jpg) no-repeat center/cover;
 }
 
 .hero::before {
